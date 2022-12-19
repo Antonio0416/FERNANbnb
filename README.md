@@ -1,12 +1,9 @@
 
+# FERNANbnb
+
 ![fernanbnb](https://user-images.githubusercontent.com/113978105/208424763-62eefaff-0301-4021-a75f-51e8e6072efc.png)
-
-
 #                       					  MANUAL DE USUARIO
 
-
-
-![image-20221218180757447](C:\Users\franr\AppData\Roaming\Typora\typora-user-images\image-20221218180757447.png)
 
 
 
@@ -46,7 +43,7 @@ Descomprimimos la carpeta, accedemos a **FERNANbnb\src** y ejecutamos el archivo
 
 Al iniciar el programa, nos aparecerá un menú como el siguiente:
 
-![image-20221218224242455](C:\Users\franr\AppData\Roaming\Typora\typora-user-images\image-20221218224242455.png)
+![1](https://user-images.githubusercontent.com/113978105/208426449-2c97e3a1-4eae-44f3-8dce-7d6474123cb6.png)
 
 
 
@@ -58,7 +55,7 @@ Deberemos elegir la **opción 1** (Iniciar Sesión), **opción 2** (Registro) u 
 
 Para iniciar sesión, previamente debemos haber creado previamente una cuenta en el programa. Una vez creada, solo deberemos introducir los datos correspondientes para entrar al menú principal.
 
-![image-20221218224330482](C:\Users\franr\AppData\Roaming\Typora\typora-user-images\image-20221218224330482.png)
+![2](https://user-images.githubusercontent.com/113978105/208426977-513e33aa-a28a-45bd-bb63-824134133230.png)
 
 
 
@@ -66,7 +63,7 @@ Para iniciar sesión, previamente debemos haber creado previamente una cuenta en
 
 A la hora de registrarnos, debemos decidir el tipo de cuenta que queremos crear, eligiendo entre **opción 1** (Usuario), **opción 2** (Propietario) u **opción 3** (Salir). **La cuenta de Administrador viene creada por defecto en el sistema**.
 
-![image-20221218224417492](C:\Users\franr\AppData\Roaming\Typora\typora-user-images\image-20221218224417492.png)
+![3](https://user-images.githubusercontent.com/113978105/208426998-5f87d7db-5536-4c3a-961c-0e1c4c20194e.png)
 
 
 
@@ -76,13 +73,13 @@ En los tres casos tendremos que rellenar una serie de campos, necesarios para cr
 
 (Usuario Normal)
 
-![image-20221218224556914](C:\Users\franr\AppData\Roaming\Typora\typora-user-images\image-20221218224556914.png)
+![4](https://user-images.githubusercontent.com/113978105/208427198-c4c51631-3e67-4098-a558-12b038694a84.png)
 
 
 
 (Usuario propietario)
 
-![image-20221218224648325](C:\Users\franr\AppData\Roaming\Typora\typora-user-images\image-20221218224648325.png)
+![5](https://user-images.githubusercontent.com/113978105/208427236-b0aabee1-6995-4ca1-8530-018ac82a217b.png)
 
 
 
@@ -92,7 +89,7 @@ Al crear un nuevo perfil propietario, tendremos la opción de añadir una vivien
 
 <h2>Menú Usuario</h2>
 
-![image-20221218225147620](C:\Users\franr\AppData\Roaming\Typora\typora-user-images\image-20221218225147620.png)
+![6](https://user-images.githubusercontent.com/113978105/208427407-b234d999-4492-4ce3-8bf8-7ee73ff3d4d6.png)
 
 
 
@@ -112,7 +109,7 @@ Para anularlas  reservas creadas por nuestro usuario.
 
 Aquí podemos visualizar todos los datos del usuario.
 
-![image-20221218225101018](C:\Users\franr\AppData\Roaming\Typora\typora-user-images\image-20221218225101018.png)
+![7](https://user-images.githubusercontent.com/113978105/208427457-75d1a5c4-b276-40e8-978e-05115d72a5d3.png)
 
 
 
@@ -120,13 +117,13 @@ Aquí podemos visualizar todos los datos del usuario.
 
 Aparece en menú en el que elegiremos que queremos cambiar del perfil, simplemente elegimos dicha opción e introducimos el valor deseado.
 
-![image-20221218225121550](C:\Users\franr\AppData\Roaming\Typora\typora-user-images\image-20221218225121550.png)
+![8](https://user-images.githubusercontent.com/113978105/208427494-2a8eec00-3e46-4195-ad50-28a3d4f71d0d.png)
 
 
 
 <h2>Menú Propietario</h2>
 
-![image-20221218224713932](C:\Users\franr\AppData\Roaming\Typora\typora-user-images\image-20221218224713932.png)
+![9](https://user-images.githubusercontent.com/113978105/208427515-108112ae-7cc3-47b7-96fe-6b938840b5a8.png)
 
 
 
@@ -134,13 +131,13 @@ Aparece en menú en el que elegiremos que queremos cambiar del perfil, simplemen
 
 En esta opción podemos visualizar todas las viviendas creadas por el propietario.
 
-![image-20221219130611815](C:\Users\franr\AppData\Roaming\Typora\typora-user-images\image-20221219130611815.png)
+![10](https://user-images.githubusercontent.com/113978105/208427567-9548011f-aa64-4d77-a492-3260bb472699.png)
 
 
 
 <h3>2. Editar mis viviendas</h3>
 
-![image-20221218225512809](C:\Users\franr\AppData\Roaming\Typora\typora-user-images\image-20221218225512809.png)
+![11](https://user-images.githubusercontent.com/113978105/208427739-393d46d1-338c-4941-a6cb-80ce82a03125.png)
 
 
 
@@ -148,13 +145,13 @@ Dentro de las múltiples opciones que ofrece este menú, hay una destinada a **B
 
 Si queremos añadir una vivienda, deberemos introducir todos los datos necesarios en el sistema y listo.
 
-![image-20221218225838797](C:\Users\franr\AppData\Roaming\Typora\typora-user-images\image-20221218225838797.png)
+![12](https://user-images.githubusercontent.com/113978105/208427766-a510776c-9e1b-44e4-919a-a641db6ad3b0.png)
 
 
 
 En el caso contrario, solo deberemos seleccionar la opción de Borrar Vivienda.
 
-![image-20221218225946697](C:\Users\franr\AppData\Roaming\Typora\typora-user-images\image-20221218225946697.png)
+![13](https://user-images.githubusercontent.com/113978105/208427829-fac51078-6050-4106-99b2-19de62586377.png)
 
 
 
@@ -166,7 +163,7 @@ En el caso contrario, solo deberemos seleccionar la opción de Borrar Vivienda.
 
 Si algún usuario ha reservado alguna de las viviendas, aparecerá en este menú
 
-![image-20221219131014480](C:\Users\franr\AppData\Roaming\Typora\typora-user-images\image-20221219131014480.png)
+![14](https://user-images.githubusercontent.com/113978105/208427855-3f499355-3a42-479f-8974-b886eae5fd83.png)
 
 
 
@@ -174,7 +171,7 @@ Si algún usuario ha reservado alguna de las viviendas, aparecerá en este menú
 
 Si necesitamos cambiar el periodo en el que estará disponible alguna de las viviendas, solo  tendremos que introducir dichas  fechas y listo.
 
-![image-20221219131124003](C:\Users\franr\AppData\Roaming\Typora\typora-user-images\image-20221219131124003.png)
+![15](https://user-images.githubusercontent.com/113978105/208427879-f552dc1f-76c1-4fe5-a847-27bef85a4f4a.png)
 
 
 
@@ -182,13 +179,13 @@ Si necesitamos cambiar el periodo en el que estará disponible alguna de las viv
 
 Aquí podremos ver todos los datos del propietario. Si aún no hemos registrado ninguna vivienda, aparecerá la palabra **null**.
 
-![image-20221218224833597](C:\Users\franr\AppData\Roaming\Typora\typora-user-images\image-20221218224833597.png)
+![16](https://user-images.githubusercontent.com/113978105/208427902-445a7fff-8eaa-4971-b1c5-ee20d7c6a057.png)
 
 <h3>6. Modificar mi perfil</h3>
 
 Aparece en menú en el que elegiremos que queremos cambiar del perfil, simplemente elegimos dicha opción e introducimos el valor deseado.
 
-![image-20221218230303378](C:\Users\franr\AppData\Roaming\Typora\typora-user-images\image-20221218230303378.png)
+![17](https://user-images.githubusercontent.com/113978105/208427926-a50926d3-4fa0-4f19-95cd-5d74f0caa028.png)
 
 
 
@@ -200,5 +197,5 @@ Una vez dentro del menú, solo debemos elegir la opción **Salir/Cerrar Sesión*
 
 ### 📝 Colaboradores 📝
 
-- Antonio Cámara Cámara - 
-- Francisco Romera Miranda - 
+- Antonio Cámara Cámara - https://github.com/Antonio0416
+- Francisco Romera Miranda - https://github.com/Franromera855
